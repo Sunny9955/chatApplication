@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+h1{
+    margin-left:26%;
+}
+#login-box{
+   position: absolute;
+   top:30%;
+   left:25%;
+   
+}
+.name{
+    width: 17cm;
+    height:1cm;
+    border-style: none;
+    border-radius: 0.5rem;
+    font-size:large;
+    
+}
+.password{
+    margin-top:20px;
+    width: 17cm;
+    height:1cm;
+    border-style: none;
+    border-radius: 0.5rem;
+    font-size:large;
+    
+}
+.login{
+    
+    display: flex;
+    margin:20px;
+    position:absolute;
+    left:23%;
+    width: 2.5cm;
+    height: 1cm;
+    font-size: large;
+    border-radius: 0.3rem;
+    border-style: none;
+
+}
+.login:hover{
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,11 @@
+body{
+    
+    background-color: rgb(149, 151, 152);
+}
+
+#profile-box{
+    width: 10cm;
+    min-height: 5cm;
+    background-color: white;
+    border-radius: 0.5rem;
+}

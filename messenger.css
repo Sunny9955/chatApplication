@@ -1,0 +1,42 @@
+#chatContainer{
+    width: 12cm;
+    height:auto;
+    border-radius:0.2rem;
+    background-color: blue;
+    color: aliceblue;
+}
+.h1{
+    padding-left: 1cm;
+}
+.search{
+    width:10cm;
+    height: 1cm;
+    border-radius: 0.4rem;
+    border-style: none;
+    margin-left: 32px;
+}
+#friend-box{
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color:white;
+    gap: 20px;
+}
+#friend-box p{
+    margin-left: 20px;
+    font-size: large;
+    color: black;
+}
+#friend-box :hover{
+background-color: rgb(198, 192, 192);
+border-radius: 0.2rem;
+}
+#friend-box img{
+    background-color: rgb(104, 96, 96);
+}
+#friend-box img:hover{
+    cursor: pointer;
+
+}
